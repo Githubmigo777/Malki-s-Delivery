@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DeliveryApp</string>
+    <string name="mali_s_delivery">Mali\'s Delivery</string>
+    <string name="todo">TODO</string>
+    <string name="country_wide_food_delivery_app">Country Wide Food Delivery app</string>
+    <string name="loginPageLogo">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="dont_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="already_have_an_account_login">Already have an account? LogIn</string>
+    <string name="register">Register</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="verify_phone_no">Verify Phone No</string>
+    <string name="enter_verification_code_if_not_automatically_authenticated">Enter verification code if not automatically authenticated.</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify">Verify</string>
+</resources>
